@@ -1,0 +1,33 @@
+_repo: The-Campaign-of-1776-around-New-York-and-Brooklyn--13-Including-a-new-and-circumstantial-acco__21990
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Johnston, Henry Phelps
+    aliases:
+    - Johnston, Henry P. (Henry Phelps)
+    - Johnston, H. P. (Henry Phelps)
+    birthdate: 1842
+    deathdate: 1923
+    gutenberg_agent_id: '25016'
+    url: http://www.gutenberg.org/2009/agents/25016
+description: pt. 1. The campaign -- pt. 2. Documents.
+gutenberg_issued: '2007-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21990'
+  lccn: '02010427'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E201'
+- !lcsh 'New York (N.Y.) -- History -- Revolution, 1775-1783'
+- !lcsh 'Long Island, Battle of, New York, N.Y., 1776'
+title: "The Campaign of 1776 around New York and Brooklyn\r\nIncluding a new and circumstantial\
+  \ account of the battle of Long island and the loss of New York, with a review of\
+  \ events to the close of the year"
+url: http://www.gutenberg.org/ebooks/21990
